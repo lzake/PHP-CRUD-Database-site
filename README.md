@@ -1,5 +1,12 @@
 #PHP CRUD Database site
-PHP-based LAMP/AMP/MAMP stack Create/Read/Update/Delete site for managing local/remote databases in MySQL and variants
+##PHP-based LAMP/AMP/MAMP stack Create/Read/Update/Delete site for managing local/remote databases in MySQL and variants
+
+###Tech:
+⋅⋅* PHP
+⋅⋅* Apache
+⋅⋅* MySQL / PHPMyAdmin
+⋅⋅* bootstrap
+⋅⋅* jQuery
 
 1. splash page
 ![](/splash.png)
